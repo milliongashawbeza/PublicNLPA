@@ -1,12 +1,11 @@
 ---
 title: "Amharic NLPA API"
-date: 2020-04-18T10:07:21+06:00
-# post image
-image: "images/portfolio/post-3.jpg"
+date: 2021-04-18T10:07:21+06:00
+
 # post type (regular/featured)
 type: "regular"
 # meta description
-description: "This is meta description for amharic language processor Amharic NLP"
+description: "This is meta description for amharic language processor( Amharic NLP API)"
 # post draft
 draft: false
 ---
